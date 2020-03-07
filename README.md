@@ -124,4 +124,7 @@ On this data set a loop was set on Data.Stations to get each stations’s proper
 Next there was a loop as in: 
  
 The final result was:
-See PDF version for JPG report of results. or simply run index.html. Respectfully, Piruz Alemi March 5, 2020
+See PDF version for JPG report of results. or simply run index.html.
+
+### Respectfully, 
+### Piruz Alemi March 5, 2020
