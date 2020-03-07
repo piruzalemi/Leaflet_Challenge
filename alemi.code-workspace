@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/piruzalemi/ETL_Challenge"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Leaflet"
+	}
+}

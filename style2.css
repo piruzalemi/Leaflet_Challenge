@@ -1,0 +1,78 @@
+html,
+body,
+#map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+    padding: 10px;
+    font-family: Sanchez, serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #555;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .legend .low {
+    color: #ec8a2e;
+  }
+  
+  .legend .empty {
+    color: #a0353a;
+  }
+  
+  .legend .coming-soon {
+    color: #f4ba48;
+  }
+  
+  .legend .healthy {
+    color: #1b904f;
+  }
+  
+  .legend .out-of-order {
+    color: #007dff;
+  }
+  
+
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+.parallax-marker.label {
+  display: block;
+  font-weight: bold;
+  color: rgb(98, 56, 128);
+  text-align: center;
+  text-shadow: rgb(255, 255, 255) 1px 0 1px, rgb(255, 255, 255) -1px 0 1px, rgb(255, 255, 255) 0 -1px 1px, rgb(255, 255, 255) 0 1px 1px;
+  text-transform: uppercase;
+}
+
+.parallax-marker.label.huge {
+  font-size: 96px;
+  color: rgba(185, 157, 185, 0.39);
+  text-shadow: none;
+}
+
+.parallax-marker.label.big {
+  font-size: 24px;
+}
+
+.parallax-marker.label.medium {
+  font-size: 16px;
+  font-weight: normal;
+  color: rgb(121, 85, 125);
+}
+
+.parallax-marker.label.small {
+  font-size: 12px;
+  font-weight: normal;
+  color: rgb(137, 128, 144);
+  text-transform: none;
+}
+
